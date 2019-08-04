@@ -1,0 +1,29 @@
+baseurl = "https://shawngraham.github.io/guerilla-dh/"
+title = "Guerilla Digital Public History"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = false
+
+[params]
+  title = "Guerilla Digital Public History"
+  description = 'A graduate seminar at Carleton University<br /> in the Department of History. Taught by Shawn M Graham><br>'
+  logo = "fa-hand-rock-o"
+  copyright = "Shawn M Graham"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "http://twitter.com/electricarchaeo"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "http://github.com/shawngraham/guerilla-dh"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Guerilla Digital Public History"
