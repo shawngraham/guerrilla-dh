@@ -15,7 +15,7 @@ At a minimum, you'll need:
 
 Whether or not you use your own name in any part of your username is up to you - you can be pseudonymous.
 
-Join our 5702w collaborative web annotation group [here](https://hypothes.is/groups/zX4N5ekd/guerilla-dh). If you've not used Hypothesis before, [here is some help](https://web.hypothes.is/quick-start-guide-for-students/). Hypothesis is a tool for collaborative open annotation and you will get out of it what you put in.
+Join our class collaborative web annotation group [here](https://hypothes.is/groups/zX4N5ekd/guerilla-dh). If you've not used Hypothesis before, [here is some help](https://web.hypothes.is/quick-start-guide-for-students/). Hypothesis is a tool for collaborative open annotation and you will get out of it what you put in.
 
 ## Do I need to be 'techy'?
 
