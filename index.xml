@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guerilla Digital Public History</title>
+    <link>https://shawngraham.github.io/guerilla-dh/</link>
+    <description>Recent content on Guerilla Digital Public History</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://shawngraham.github.io/guerilla-dh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>https://shawngraham.github.io/guerilla-dh/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/guerilla-dh/intro/</guid>
+      <description>The sources for the history of our times are fragile. Joe Ricketts, the billionaire owner of DNAInfo and Gothamist, shut the local news publications down rather than tolerate a unionized workforce. For 11 minutes, Trump was kicked off Twitter. Ian Bogost sees in both episodes a symptom of a deeper problem
+ both are pulling on the same brittle levers that have made the contemporary social, economic, and political environment so lawless.</description>
+    </item>
+    
+    <item>
+      <title>The Question</title>
+      <link>https://shawngraham.github.io/guerilla-dh/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/guerilla-dh/work/</guid>
+      <description>[&amp;hellip;a guerrilla narrative is the] interrupting [of] mainstream organized narratives through counter hegemonic storytelling, and the sabotage of toxic narratives &amp;hellip; particularly those which reproduce or silence injustice&amp;hellip; Methodologically, adopting a guerrilla narrative approach implies a commitment towards the co-design and co-production of knowledge and the recognition of storytelling as a fundamental tool in this process. - Iengo, Ilenia and Armiero, M. The politicization of ill bodies in Campania, Italy.</description>
+    </item>
+    
+    <item>
+      <title>Warning</title>
+      <link>https://shawngraham.github.io/guerilla-dh/readings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/guerilla-dh/readings/</guid>
+      <description>This is a studio course. We will spend very little time in class on readings, as such; when we do discuss such things, it will be to provide context for what we are doing. I&amp;rsquo;m inspired very much by the work of historian Bill Turkle, who says to his own students in a similar kind of studio-led course,
+ Most of your in-class time will be devoted to experimenting with various kinds of technologies and learning how to apply them.</description>
+    </item>
+    
+    <item>
+      <title>Get Started</title>
+      <link>https://shawngraham.github.io/guerilla-dh/get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/guerilla-dh/get-started/</guid>
+      <description>NB As the schedule, supporting readings, and work we do can change rapidly, I&amp;rsquo;m electing to use the Wiki attached to this course repository for handling any updates. Please check the course wiki for the latest course information &amp;amp; syllabus.
+At a minimum, you&amp;rsquo;ll need:
+ an account with Github or a domain of your own an account with Hypothesis  Whether or not you use your own name in any part of your username is up to you - you can be pseudonymous.</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://shawngraham.github.io/guerilla-dh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/guerilla-dh/about/</guid>
+      <description>Shawn Graham I&amp;rsquo;m Associate Professor of Digital Humanities in the Department of History at Carleton University in Ottawa, Canada.
+No one is more surprised by this than me.
+Interests  Computational Creativity for History &amp;amp; Archaeology Open Access Everything Digital Public History &amp;amp; Archaeology  I&amp;rsquo;m currently working on things like machine learning, and the dodgy trade in human remains, as well as computational creativity and archaeological legacy data. Last year I published a textbook on digital archaeology with its own integrated computational environment.</description>
+    </item>
+    
+  </channel>
+</rss>
