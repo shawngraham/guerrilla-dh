@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shawngraham.github.io/guerilla-dh//sitemap.xml
+Sitemap: https://shawngraham.github.io/guerrilla-dh//sitemap.xml
