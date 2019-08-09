@@ -4,9 +4,9 @@ weight = 70
 draft = false
 +++
 
-{{< figure class="image main" src="/guerilla-dh/images/abraham-wiebe-386927.jpg" >}}
+{{< figure class="image main" src="/guerrilla-dh/images/abraham-wiebe-386927.jpg" >}}
 
-**NB** As the schedule, supporting readings, and work we do can change rapidly, I'm electing to use the Wiki attached to this course repository for handling any updates. [Please check the course wiki for the latest course information & syllabus.](https://github.com/shawngraham/guerilla-dh/wiki)
+**NB** As the schedule, supporting readings, and work we do can change rapidly, I'm electing to use the Wiki attached to this course repository for handling any updates. [Please check the course wiki for the latest course information & syllabus.](https://github.com/shawngraham/guerrilla-dh/wiki)
 
 At a minimum, you'll need:
 

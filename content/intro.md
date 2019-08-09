@@ -4,7 +4,7 @@ weight = 10
 draft = false
 +++
 
-{{< figure class="image main" src="/guerilla-dh/images/anastasia-polischuk-155084.jpg" >}}
+{{< figure class="image main" src="/guerrilla-dh/images/anastasia-polischuk-155084.jpg" >}}
 
 The sources for the history of our times are [fragile](https://www.bloomberg.com/news/articles/2017-11-02/gothamist-dnainfo-shut-down-as-billionaire-ricketts-cites-costs). Joe Ricketts, the billionaire owner of DNAInfo and Gothamist, shut the local news publications down rather than tolerate a unionized workforce. For 11 minutes, [Trump was kicked off Twitter](https://boingboing.net/2017/11/03/twitter-briefly-and-immeasurab.html). Ian Bogost sees in [both episodes a symptom of a deeper problem](https://www.theatlantic.com/technology/archive/2017/11/sorry-that-page-doesnt-exist/544934/)
 
