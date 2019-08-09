@@ -4,7 +4,7 @@ draft = false
 weight = 35
 +++
 
-{{< figure class="image main" src="/guerilla-dh/images/joey-banks-380271.jpg" >}}
+{{< figure class="image main" src="/guerrilla-dh/images/joey-banks-380271.jpg" >}}
 
 This is a studio course. We will spend very little time _in class_ on readings, as such; when we do discuss such things, it will be to provide context for what we are _doing_. I'm inspired very much by the work of historian Bill Turkle, who says to his own students in a similar kind of studio-led course,
 
